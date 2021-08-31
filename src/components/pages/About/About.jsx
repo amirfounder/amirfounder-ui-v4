@@ -1,5 +1,5 @@
 import React from 'react';
-import { Heading } from '../Heading';
+import { Heading } from '../../modules/Heading';
 import { Paragraph } from '../../modules/Paragraph';
 import styles from './About.module.scss'
 
