@@ -1,0 +1,15 @@
+.main {
+
+  display: grid;
+  justify-content: center;
+
+  padding: var(--page-desktop-padding);
+
+  
+  & > .container {
+    
+    max-width: var(--page-desktop-max-width);
+    min-width: var(--page-desktop-max-width);
+
+  }
+}

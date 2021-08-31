@@ -1,0 +1,19 @@
+:root {
+
+  --page-desktop-max-width: 920px;
+  --page-tablet-max-width: 800px;
+  --page-mobile-max-width: 800px;
+
+  --page-desktop-padding-top: 40px;
+  --page-tablet-padding-top: 20px;
+  --page-mobile-padding-top: 10px;
+
+  --page-desktop-padding-bottom: 40px;
+  --page-tablet-padding-bottom: 20px;
+  --page-mobile-padding-bottom: 10px;
+  
+  --page-desktop-padding: var(--page-desktop-padding-top) var(--page-desktop-padding-bottom);
+  --page-tablet-padding: var(--page-tablet-padding-top) var(--page-tablet-padding-bottom);
+  --page-mobile-padding: var(--page-mobile-padding-top) var(--page-mobile-padding-bottom);
+
+}
